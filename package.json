@@ -1,0 +1,23 @@
+{
+    "name": "LeetCode",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "format": "prettier --write ./src/*"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lateAugust/Leecode.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lateAugust/Leecode/issues"
+    },
+    "homepage": "https://github.com/lateAugust/Leecode#readme",
+    "devDependencies": {
+        "prettier": "^3.3.3"
+    }
+}
